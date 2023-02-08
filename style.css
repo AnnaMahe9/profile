@@ -1,12 +1,14 @@
 body {
- background-color: #0F2A38;
- background-image: url("images/fondSite.jpg");
- color: aliceblue;
- margin: 30px;
- display: flex;
- justify-content: center;
- text-align: center;
- font-family: 'PT Serif', serif;
+  background-color: #0F2A38;
+  background-image: url("images/fondSite.jpg");
+  color: aliceblue;
+  margin: 30px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-family: 'PT Serif', serif;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 
